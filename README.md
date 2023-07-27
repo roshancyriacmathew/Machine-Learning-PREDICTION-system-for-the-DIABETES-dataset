@@ -4,6 +4,6 @@ diagnostically detect whether a patient has diabetes based on the diagnostic mea
 We will be covering exploratory data analysis, performing feature engineering, experimenting with different machine
 learning models, and then using the best model to build a prediction system. 
 
-To see the complete video explanation of this project, check out the following code:
+To see the complete video explanation of this project, check out the following link:
 https://youtu.be/iiCAIu4cNLk
 
